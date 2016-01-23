@@ -33,7 +33,7 @@ public class VariablesActivity extends Activity {
 
         Yep we can add strings as well
         It is called concatenation
-
+hice un cambio
         */
 
         valuePi = valuePi + 10;
